@@ -25,8 +25,7 @@ body {
 
 #menuBarContainer p {
   margin: 0;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-bottom: 35px;
   font-size: 30px;
   color: #555555;
   transition: 0.2s;
@@ -42,14 +41,60 @@ body {
   border-width: 0;
   border-right-width: 5px;
   border-image-slice: 1;
-  border-image-source: linear-gradient(135deg, #f8c901 38%, #e72d2d 67%, #c32378 90%);
+  border-image-source: linear-gradient(135deg, #f8c901 45%, #e72d2d 70%, #c32378 90%);
   position: fixed;
   top: 0;
   left: 0;
+}
+
+#header {
+  display: flex;
+  margin-bottom: 25px;
+  border-style: solid;
+  border-width: 0;
+  border-bottom-width: 3px;
+  border-color: rgb(0, 0, 0, 0.1);
+  height: 75px;
+  gap: 20px;
+}
+
+#header img {
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 50px;
+}
+
+#header h1 {
+  margin-bottom: 0px;
+  margin-left: 25px;
 }
 
 .mainPage {
   margin-left: 365px;
   max-width: 100%;
   position: relative;
+  transition: 1s;
+}
+
+.page {
+  padding: 50px 150px;
+}
+
+.page h1 {
+  font-size: 50px;
+}
+
+.page h3 {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.page p {
+  margin-left: 100px;
+  font-size: 25px;
+}
+
+.page h2 {
+  font-size: 30px;
+  font-weight: bold;
 }
