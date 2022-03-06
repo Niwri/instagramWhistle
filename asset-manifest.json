@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/instagramWhistle/static/css/main.dc37d333.css",
+    "main.js": "/instagramWhistle/static/js/main.e33d6472.js",
+    "static/media/weeklyPostGraph.png": "/instagramWhistle/static/media/weeklyPostGraph.d9b3f772824aee66d882.png",
+    "static/media/icon.png": "/instagramWhistle/static/media/icon.5442904a41df6a6cbcdf.png",
+    "index.html": "/instagramWhistle/index.html",
+    "main.dc37d333.css.map": "/instagramWhistle/static/css/main.dc37d333.css.map",
+    "main.e33d6472.js.map": "/instagramWhistle/static/js/main.e33d6472.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc37d333.css",
+    "static/js/main.e33d6472.js"
+  ]
+}
