@@ -1,0 +1,411 @@
+{
+  "participants": [
+    {
+      "name": "Matthew Cruz"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600568733443,
+      "content": "hmm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600568728418,
+      "content": "probs not",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600568708726,
+      "content": "smh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600566398874,
+      "content": "are u available tomorrow tho?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600566378389,
+      "content": "im lazy af to coordinate",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600566368790,
+      "content": "usually the person who asks is the one that coordinates",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600566355636,
+      "content": "isnt it fine for u to ask tho",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600566345454,
+      "content": "tomorrow?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600566341812,
+      "content": "?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600565926309,
+      "content": "irwin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600565473225,
+      "content": "sunday",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600565462591,
+      "content": "but this time for subday",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600565462211,
+      "content": "irwin ask again",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315348797,
+      "content": "yea",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315344407,
+      "content": "Welp we got like 13 weeks left till new years",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315336613,
+      "content": "idk if they will let me stay at my grandmother's place",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315316707,
+      "content": "Tru",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315311485,
+      "content": "but i would also have to be free to go there",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315299828,
+      "content": "yea",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315293124,
+      "content": "U better pray his parents lets him lmao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315278151,
+      "content": "ye brian",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315271201,
+      "content": "Brian or someone else?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315248061,
+      "content": "im only going if 1 specific person is free",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315239453,
+      "content": "tbh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315233196,
+      "content": "Nic",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315227968,
+      "content": "i met paolo tho",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315221401,
+      "content": "Haven't met them in person tho",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315194117,
+      "content": "Like paolo Matthew hyunh n alinn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315173001,
+      "content": "U fine with the recently added peeps being free?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315156548,
+      "content": "Kk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315151296,
+      "content": "first let's see who's free",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315130459,
+      "content": "Kk how many den",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315129719,
+      "content": "or if my parents are wack",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315121819,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315121351,
+      "content": "i might not go if not enough ppl are there",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315109554,
+      "content": "but",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315107795,
+      "content": "it be better if i go to u guys",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315103580,
+      "content": "toronto ofc, im not making u nerds go to brampton",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315088561,
+      "content": "We meeting up in Brampton or Toronto if u planning one?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315055207,
+      "content": ";)",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315051513,
+      "content": "Y?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315048520,
+      "content": "I was boutta say Matthew asked lmfao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315036272,
+      "content": "don't say i said antything",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315012804,
+      "content": "if they're free this weekend",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600315008451,
+      "content": "ask in gc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315007529,
+      "content": "Waddap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1600315002039,
+      "content": "I'm lying down",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600314934937,
+      "content": "hec",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600314934653,
+      "content": "irwin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1600314926238,
+      "content": "u up?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598143130768,
+      "content": "on random shit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598143127869,
+      "content": "catching up with Sean",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598143113049,
+      "content": "no idea",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1598143106960,
+      "content": "make group chat when",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598143098975,
+      "content": "yo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Matthew Cruz",
+      "timestamp_ms": 1598143093139,
+      "content": "ok nerd",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Matthew Cruz",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/matthewcruz_jtp-pcx6ca",
+  "magic_words": [
+    
+  ]
+}

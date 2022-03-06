@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1534171530404,
+      "content": "Follow jngoaway my main",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/instagramuser_mglfszao1w",
+  "magic_words": [
+    
+  ]
+}

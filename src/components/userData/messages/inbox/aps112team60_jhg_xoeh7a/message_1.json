@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "lisa m"
+    },
+    {
+      "name": "Jonathan Ryu"
+    },
+    {
+      "name": "Hamza"
+    },
+    {
+      "name": "Irwin Ngo"
+    },
+    {
+      "name": "Isaac West Wieting Muscat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonathan Ryu",
+      "timestamp_ms": 1643157376327,
+      "content": "If anyone gets the reference Imma scream lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Ryu",
+      "timestamp_ms": 1643157231082,
+      "content": "Ok Discord account is now live",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Jonathan Ryu",
+      "timestamp_ms": 1643156773611,
+      "content": "Oiii",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Isaac West Wieting Muscat",
+      "timestamp_ms": 1643156352896,
+      "content": "Hiii",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hamza",
+      "timestamp_ms": 1643142522895,
+      "content": "Hamza named the group APS112 team 60.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Hamza",
+      "timestamp_ms": 1643142501798,
+      "content": "Hello",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "APS112 team 60",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/aps112team60_jhg_xoeh7a",
+  "magic_words": [
+    
+  ]
+}

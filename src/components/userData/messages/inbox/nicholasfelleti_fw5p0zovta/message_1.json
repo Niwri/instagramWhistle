@@ -1,0 +1,561 @@
+{
+  "participants": [
+    {
+      "name": "Nicholas Felleti"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1588221385788,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1588215198464,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1587926963499,
+      "content": "Kk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587926842729,
+      "content": "For some reason I didn\u00e2\u0080\u0099t get your discoed notifications that\u00e2\u0080\u0099s why I didn\u00e2\u0080\u0099t see it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587926830434,
+      "content": "Ya I am in that sense I\u00e2\u0080\u0099ve been researching a lot abt it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1587926764990,
+      "content": "Swing trades or intraday trades",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587926709286,
+      "content": "Active in what sense on the stock market",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1587925027452,
+      "content": "Nicholas are you active on discord and on the stock market",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587676532055,
+      "content": "That\u00e2\u0080\u0099s my server",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587676530186,
+      "content": "Nicholas sent an attachment.",
+      "share": {
+        "link": "https://discord.gg/fYtPy8"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587676526709,
+      "content": "My username is Nicholas_Felleti",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1587676392107,
+      "content": "Yep I don't use my phone much",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587676379252,
+      "content": "Ye u want it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1587676161008,
+      "content": "Do you have discord?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587097051472,
+      "content": "Nvm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1587048665822,
+      "content": "Yo Irwin, I\u00e2\u0080\u0099d you do the assignment would I you mind sending me what u got. I finished it, just want to see if I\u00e2\u0080\u0099m right or wrong",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1583127771602,
+      "content": "I'll show u in class",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1583121184709,
+      "content": "I kept getting 4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1583121181165,
+      "content": "I definitely rounded it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1583121177318,
+      "content": "Can you send me what u did if possible",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1583119652649,
+      "content": "Checked it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1583119646152,
+      "content": "3.8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582857013990,
+      "content": "I get 4 what I get the answer is 3.8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582856935853,
+      "content": "I think it\u00e2\u0080\u0099s my rounding",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582856883131,
+      "content": "4b is the only question in the homework I can\u00e2\u0080\u0099t get my head around, if you did it send me a pic if you can",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582090703662,
+      "content": "Not the entire booklet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582082436668,
+      "content": "Did you finish the lab package",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582003278365,
+      "content": "Aight easy work",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581999344127,
+      "content": "21-24",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581999340926,
+      "content": "21-21",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581999338265,
+      "content": "It\u00e2\u0080\u0099s in the lab handout",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581998169417,
+      "content": "What lab thing did we get",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581995248975,
+      "content": "Ya I figured it out",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581994927882,
+      "content": "Lab thing?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581994400664,
+      "content": "Nvm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581993954477,
+      "content": "Yo for the lab thing, it says what is the shape, what u put for those",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581610282323,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "http://www.math.toronto.edu/oz/turgor/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581558232006,
+      "content": "That\u00e2\u0080\u0099s why cuz you don\u00e2\u0080\u0099t have exact values",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581558211187,
+      "content": "I rounded it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581558128215,
+      "content": "Cause at 4.0 it's less than 50",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581558099761,
+      "content": "It ain't 25 for sure",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581558011480,
+      "content": "It looks like a 33 to me",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581557921311,
+      "content": "It\u00e2\u0080\u0099s the one that says the answer is 30",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581557912775,
+      "content": "It the textbook ya",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581557906132,
+      "content": "Ya",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581557900483,
+      "content": "Odam we gotta do 1-2 p29?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581557767316,
+      "content": "Or 19",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581557751062,
+      "content": "Page 29 tb?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581557696917,
+      "content": "Lemme check",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581557689775,
+      "content": "What u get",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581557687494,
+      "content": "I got 25 for 2a",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581557673280,
+      "content": "Shit*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581557667004,
+      "content": "Depends if u have a shot ruler or not",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581557626394,
+      "content": "Not 99% accurate but enough to guess the slope",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581556595848,
+      "content": "For 2a on page 29 isn\u00e2\u0080\u0099t that not accurate cuz it\u00e2\u0080\u0099s based on your tangent line",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581482988940,
+      "content": "Ya that\u00e2\u0080\u0099s what I meant",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581482953473,
+      "content": "It'd",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581482947295,
+      "content": "It's be -1m/s",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581482849922,
+      "content": "Mhm,",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581476276515,
+      "content": "And for the on that says measure the velocity from 6-8 s it\u00e2\u0080\u0099s 1M, right cuz it\u00e2\u0080\u0099s goes down buy one each time",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581475683364,
+      "content": "Or 0 works to",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581475673158,
+      "content": "The speed is the same cuz you end up at home in the end",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581475657076,
+      "content": "Perfect I got the same",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581475512756,
+      "content": "N 0km/h",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581475506201,
+      "content": "52.5km/h",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581468766296,
+      "content": "What answer you get for 4 on page 13",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581391013165,
+      "content": "Kk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581391007139,
+      "content": "Or simply multiply the 6:5 ratio by 4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581391007015,
+      "content": "Find the ratio for 1 cm then multiply both sides of the ratio by 20",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581390398285,
+      "content": "It\u00e2\u0080\u0099s okay dw I finished it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581390202404,
+      "content": "Lemme see",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581384285880,
+      "content": "How did you show 3 for the worksheet ik you can just divide 6/5 and multiple if by 20 but how you do it algebraiciall",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581294943649,
+      "content": "Same",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1581294934199,
+      "content": "I did 1-3 it's p easy didn't do the worksheet tho cuz idk what it is",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581283308129,
+      "content": "Nvm",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581281850712,
+      "content": "We don\u00e2\u0080\u0099t need to do part 2 of 1.1 right",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1581281843170,
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Nicholas Felleti",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nicholasfelleti_fw5p0zovta",
+  "magic_words": [
+    
+  ]
+}

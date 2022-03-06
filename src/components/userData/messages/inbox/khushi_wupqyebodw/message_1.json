@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "khushi"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "khushi",
+      "timestamp_ms": 1642050792620,
+      "content": "To",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "khushi",
+      "timestamp_ms": 1642050791440,
+      "content": "Nice yo meet u",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "khushi",
+      "timestamp_ms": 1642050787717,
+      "content": "HEY! yeah no worries I made a gc :))",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1642046337625,
+      "content": "Ty for reaching out to us!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1642046319946,
+      "content": "Ello, this is Irwin",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "khushi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/khushi_wupqyebodw",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Ryan"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ryan",
+      "timestamp_ms": 1595163625579,
+      "content": "Exactly",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1595126552830,
+      "content": "That's so big brain",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1595126507486,
+      "content": "Holy shit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Ryan",
+      "timestamp_ms": 1594824035411,
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Ryan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ryan_pysae8_rmw",
+  "magic_words": [
+    
+  ]
+}

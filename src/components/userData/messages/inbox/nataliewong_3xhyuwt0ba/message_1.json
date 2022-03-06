@@ -1,0 +1,215 @@
+{
+  "participants": [
+    {
+      "name": "Natalie Wong"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1642476999173,
+      "content": "facs u.u",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1642476785096,
+      "content": "yupp I don't even know how many ppl are in there anymore",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1642476757664,
+      "content": "feels like a lot",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1642476756055,
+      "content": "well it just",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1642476747877,
+      "content": "IKR",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1642476740878,
+      "content": "there are just wayyyyy too many ppl in the grp lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1642476716028,
+      "content": "yay u dmed too T^T",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1642476706121,
+      "content": "tyyy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1642476251811,
+      "content": "Irwin happy birthday!!",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1639164135095,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1639164130169,
+      "content": ";D",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Natalie Wong"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Natalie Wong"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1639164125089,
+      "content": "yeye",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1639164122639,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1639164120472,
+      "content": "just don't tell liam thok coz he haven't figured out what that is",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1639164095909,
+      "content": "rightttt it so nice in there",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1639164092428,
+      "content": "time to migrate there 4 studying",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Natalie Wong"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Natalie Wong"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1639164076822,
+      "content": "student commons is sick",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1639164063984,
+      "content": "oo LMAO",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1639164055001,
+      "content": "I saw u flipping over the wall lmaooo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1639164041227,
+      "content": "I was at student commons just now when I called u",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1639164018956,
+      "content": "oop waddap natalie",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1639156284402,
+      "content": "Audio call ended",
+      "call_duration": 39,
+      "type": "Call",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1639156246388,
+      "content": "Natalie Wong started an audio call",
+      "type": "Call",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1637104131344,
+      "content": "we lost u",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Natalie Wong",
+      "timestamp_ms": 1637104127262,
+      "content": "heyy irwin where a u?",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Natalie Wong",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/nataliewong_3xhyuwt0ba",
+  "magic_words": [
+    
+  ]
+}

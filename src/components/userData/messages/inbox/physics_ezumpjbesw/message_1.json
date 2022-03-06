@@ -1,0 +1,1402 @@
+{
+  "participants": [
+    {
+      "name": "yes"
+    },
+    {
+      "name": "Nicholas Felleti"
+    },
+    {
+      "name": "Irwin Ngo"
+    },
+    {
+      "name": "Marco Tafuri"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582777574045,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582777029447,
+      "content": "I finished editing answer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582776455699,
+      "content": "It's basically grass method assignment for chap 1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582776258578,
+      "content": "When everyone is done",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582776210896,
+      "content": "What assignment u guys get tdy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582776183302,
+      "content": "Nicholas when u printing",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582776088149,
+      "content": "Ayy I could sleep",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582775352241,
+      "content": "By the next test date",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582775331687,
+      "content": "When is the assignment we got today due",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582774789959,
+      "content": "For that question I just expanded upon the points",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582774738676,
+      "content": "Not me\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582774609222,
+      "content": "Why are injuries included in correction lmao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582774589801,
+      "content": "Someone edit de errors answer",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582773815316,
+      "content": "It\u00e2\u0080\u0099s fine length doesn\u00e2\u0080\u0099t matter",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582773806870,
+      "content": "She is gonna read the printer copy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582773751646,
+      "content": "Other than that it all seems fine",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582773744501,
+      "content": "Cuz there isn\u00e2\u0080\u0099t that much room on the page",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582773734448,
+      "content": "I think we should reduce the number of possible sources of error",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582773691545,
+      "content": "Could someone edit day if u can",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582773681659,
+      "content": "There's a lott zeros in 10",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582773467311,
+      "content": "Bteh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582773463976,
+      "content": "Some questions ain't good yet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "yes",
+      "timestamp_ms": 1582773369401,
+      "content": "I can pront colour too",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582773348180,
+      "content": "If u care that much",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582773339872,
+      "content": "I can do colour",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582773319218,
+      "content": "Is black and white fine or no",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582773302100,
+      "content": "I think they\u00e2\u0080\u0099re fine either way",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582773293325,
+      "content": "I believe so",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582773287974,
+      "content": "So we\u00e2\u0080\u0099re using v 2 for all right",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582773270491,
+      "content": "I\u00e2\u0080\u0099m onto gonna keep the approved ones",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582773260071,
+      "content": "K but I\u00e2\u0080\u0099m going to remove the different versions",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582773231530,
+      "content": "U print ,\u00f0\u009f\u0098\u0081\u00f0\u009f\u0091\u008d\u00f0\u009f\u0098\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772981534,
+      "content": "Choose",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772979130,
+      "content": "Is someone printing or you guys want me to print",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772953467,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582772884618,
+      "content": "K Felleti it\u00e2\u0080\u0099s completion it\u00e2\u0080\u0099s not like she\u00e2\u0080\u0099s reading yours",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772820218,
+      "content": "Have u seen my bad writing",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772816305,
+      "content": "I\u00e2\u0080\u0099m not",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582772765748,
+      "content": "I'm a natural at writing small \u00f0\u009f\u0098\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582772689785,
+      "content": "Ok just write small",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582772682328,
+      "content": "I'm making it fit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582772667686,
+      "content": "And I think it will fit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772666933,
+      "content": "So can I",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582772660060,
+      "content": "I can print",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772655415,
+      "content": "It won\u00e2\u0080\u0099t all fit on the lines",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582772643546,
+      "content": "We can write it down then print it to make it easier for the teacher to read",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582772616117,
+      "content": "Who can print it without care",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582772605657,
+      "content": "I'ma write it down",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772541619,
+      "content": "She said it\u00e2\u0080\u0099s more for use or learn I swear",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772534129,
+      "content": "I was just going to print this copy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582772426650,
+      "content": "Would she still gives us the completion marks",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582772394023,
+      "content": "But doesn\u00e2\u0080\u0099t that defeat the purpose of everyone copying it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772372255,
+      "content": "No but I\u00e2\u0080\u0099m sure it\u00e2\u0080\u0099s fine, if anything easier for her",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582772357024,
+      "content": "Did she say that",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772339718,
+      "content": "The only thing needed to be written is the stuff in the boxes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772328949,
+      "content": "We can just print it and attach the copy",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772323002,
+      "content": "We don\u00e2\u0080\u0099t need to write it on the lines",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582772302222,
+      "content": "But It needs to be shortened to write on the lines",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582772282923,
+      "content": "I think it looks good dunno bout u guys",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582772179425,
+      "content": "And when u say approved by Irwin that mean you have edited it and it\u00e2\u0080\u0099s good to go",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582771727325,
+      "content": "Decide if it needs editing and pick which answer is better",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582771680507,
+      "content": "Another version of the answer I made",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582771593068,
+      "content": "What does version 2 mean",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582771073277,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582771055286,
+      "content": "Just write refer to Irwin graogh she said",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582771048411,
+      "content": "I mean we all have to have it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582771030582,
+      "content": "Okay write it in your boxes and send a pic when your done\u00f0\u009f\u0099\u008f I\u00e2\u0080\u0099ll worry about the questions I\u00e2\u0080\u0099ll finish 7- the conclusion and fix it all up if anything is missing",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582771008426,
+      "content": "Or no",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582771006160,
+      "content": "But wait doesn\u00e2\u0080\u0099t the book we hand in have to correspond to the person whose graph we use",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582770971381,
+      "content": "My writing is ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582770965012,
+      "content": "I can write I guess",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582770930091,
+      "content": "Cuz I\u00e2\u0080\u0099ll write on my sheet refer to yours",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582770913262,
+      "content": "Wait so Irwin are we using your graogh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582770895338,
+      "content": "By clean writing you mean good writing right\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582770868936,
+      "content": "Wait those are the answer for the boxes right",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770739573,
+      "content": "BTW if you think answer looks good put Approved by name",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770679332,
+      "content": "Who has clean writing",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770645859,
+      "content": "155*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770639679,
+      "content": "0.2779 for t=115",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770618762,
+      "content": "0.5466 for t=110",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770604379,
+      "content": "0.6695*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770594547,
+      "content": "0.7695 for t=90",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770580691,
+      "content": "Straight line is 0.9185",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770568055,
+      "content": "0.5845 for t=40",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770548964,
+      "content": "0.409 for t=25",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770535192,
+      "content": "0.17 for t=5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770497223,
+      "content": "Lemme get it for you",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582770482823,
+      "content": "Tangents",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770476637,
+      "content": "Lines?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582770458012,
+      "content": "Do we have to add the 3-6 lines on your graogh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582770021491,
+      "content": "Kk use my graph for reference then since it outlined the curves better",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582769968593,
+      "content": "Idc either I just wanna finish this",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769955598,
+      "content": "Up to you guys I don\u00e2\u0080\u0099t really think it matters",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769946725,
+      "content": "But I\u00e2\u0080\u0099m saying if we use 75",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769936259,
+      "content": "But ima align for we use 75",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582769929496,
+      "content": "Feelsbad",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769928938,
+      "content": "Irwin yours is ideal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582769920737,
+      "content": "Yes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582769914254,
+      "content": "Does your tickertape have only 72?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582769888695,
+      "content": "So I don\u00e2\u0080\u0099t even meet the requirements",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582769883539,
+      "content": "I got 180-200",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582769866389,
+      "content": "Mine has 72 dots",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582769771617,
+      "content": "Shoulda used a straight string damn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582769731380,
+      "content": "Wouldn't my graph be ideal then since I outlined all the dots",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769693798,
+      "content": "I don\u00e2\u0080\u0099t really think it matters though tbh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769691481,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582769576571,
+      "content": "Does it gotta be75 dots",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769462946,
+      "content": "Nvm 9 is done",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769445691,
+      "content": "I\u00e2\u0080\u0099m gonan answer 11 and 9 now",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769255053,
+      "content": "It has 2 curves and one straight all before 75",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769238325,
+      "content": "Marco I think yours is the best",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582769221162,
+      "content": "None of them have 2 curves before 75 dots",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582768884048,
+      "content": "Which looks best",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582768347066,
+      "content": "Up to you but someone choose",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582768283503,
+      "content": "Who\u00e2\u0080\u0099s are we using",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582768125855,
+      "content": "Mine had more dots but on the sheet it says to only go up until 75",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582768046683,
+      "content": "All dt graphs are done",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582766306402,
+      "content": "I\u00e2\u0080\u0099m imputing my points then we will choose",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582766298561,
+      "content": "I think we can all exit on Desmond I saw you can share",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582766286516,
+      "content": "From what I understand we need three tangent lines for the graph and three from the line of beat fit",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582765920352,
+      "content": "Nope basically",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582765915711,
+      "content": "That\u00e2\u0080\u0099s just constant",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582765908478,
+      "content": "So then u didn\u00e2\u0080\u0099t get a curve",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582765847500,
+      "content": "It goes up by 1 each time",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582765842955,
+      "content": "I\u00e2\u0080\u0099m punching it in but look at the numbers",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582765827422,
+      "content": "Send the graph",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582765807883,
+      "content": "It\u00e2\u0080\u0099s like a straight line",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582765805344,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582765580344,
+      "content": "I\u00e2\u0080\u0099ll send a pic",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582765575799,
+      "content": "It doesn\u00e2\u0080\u0099t have a second curve",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582765570383,
+      "content": "My graphs won\u00e2\u0080\u0099t work",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582762092255,
+      "content": "This so the box we need one for and the rest will have to follow the same graphs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582762088181,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582756151863,
+      "content": "Kk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582753070054,
+      "content": "I asked Ayo he said one graph",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582752926600,
+      "content": "I\u00e2\u0080\u0099m pretty sure abt that",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582752914715,
+      "content": "The answer are for one graph",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582752902156,
+      "content": "Cuz it\u00e2\u0080\u0099s on the page where you need to do answers I asked her",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582752889198,
+      "content": "U*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582752886118,
+      "content": "Nah I don\u00e2\u0080\u0099t",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582752780194,
+      "content": "I'm p sure you find the tangent of your own graph",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582752482448,
+      "content": "I\u00e2\u0080\u0099m gonan do my graphs a little later tonight, doubt stuff from coop tdy now, when we decide which one we are doing we need to choose which one to put tangents and figure out the boxes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582722360302,
+      "content": "Sounds good",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582693931900,
+      "content": "If*",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582693927284,
+      "content": "You guys can read my answers for 1 n 2 for an example\n Try to edit em for the better of u can",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582693884093,
+      "content": "So you guys should be able to complete one in 10~ mins",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582693850297,
+      "content": "The questions are simple conceptual questions",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582693830037,
+      "content": "It's all set up there. Post your graphs at the bottom of the docs too. You'll find the section for em",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582693791536,
+      "content": "Once I guys finish the graphs just start working on any question in the docs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582685490540,
+      "content": "Doesn\u00e2\u0080\u0099t matter what",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582685483667,
+      "content": "Just lmk what I need to do as well and I\u00e2\u0080\u0099ll do it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582685462797,
+      "content": "Like 11 and both conclusions",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582685449542,
+      "content": "I\u00e2\u0080\u0099m not gonna be home tmr till 6-7 because my coop orientation is all day can we assign roles and questions now, I\u00e2\u0080\u0099ll do whatever, can even do all of the last three if you guys want",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582682079942,
+      "content": "Not a v-t",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582682075351,
+      "content": "She only gave us a table for a p-t graph right",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582681851423,
+      "content": "She said the other ones just have to do a curve of beat fit but the main one needs tangent lines and we have to finish the chart on the first page of this lab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582681808742,
+      "content": "I frgot we had to make a velocity time graph",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582679774063,
+      "content": "But I can work on it tomorrow",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582679756012,
+      "content": "Ngl I can\u00e2\u0080\u0099t tonight because I\u00e2\u0080\u0099m focusing on my chemistry lab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "yes",
+      "timestamp_ms": 1582679630489,
+      "content": "I. Done countin but i sill have me velocity graph",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582679585737,
+      "content": "Whatever date you pick I\u00e2\u0080\u0099m good with, I\u00e2\u0080\u0099m still counting the fin dots\u00f0\u009f\u0098\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582679503050,
+      "content": "When u guys Gon work on the physics we got 3 hours 48 mins, Wednesday, and the midnight of thursday",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582679417886,
+      "content": "170 dots accompanied with my laugh of mockery",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582678472532,
+      "content": "What is 170ha",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582678170361,
+      "content": "Kk posted mine already",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582678136707,
+      "content": "I got 170 hA",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582678001196,
+      "content": "Has",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Marco Tafuri",
+      "timestamp_ms": 1582677994707,
+      "content": "Mine as 61 dots lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582677992316,
+      "content": "Sure",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582677986247,
+      "content": "I'ma just screenshot from desmos",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582677942755,
+      "content": "K, lemme finish it up first I\u00e2\u0080\u0099ll do it rn",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582677911074,
+      "content": "Post it in docs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582677896415,
+      "content": "We gotta decide which looks ideal",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582677885040,
+      "content": "Take a snap of your graphs and post it rq",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582677869863,
+      "content": "It\u00e2\u0080\u0099s up to you guys",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582677862454,
+      "content": "Ok but to answer the question we need to choose one graph",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582677837194,
+      "content": "As in my explanation",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582677829664,
+      "content": "Naw it could change depending on whose graph",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582677811549,
+      "content": "Irwin I saw you answer a question using yours, does that mean we are using your graphs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582677802403,
+      "content": "lETS fiNish dOcS",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582677775678,
+      "content": "Whenever u guys want to start we can, just need to choose who\u00e2\u0080\u0099s we are using",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582605744673,
+      "content": "Kk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582605592064,
+      "content": "I deleted u then added u back",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582605542110,
+      "content": "I forgot an n lmao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582605536121,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/gmail.com"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582603291642,
+      "content": "What your gmail again",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582603153392,
+      "content": "I don't see it :/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582596035964,
+      "content": "Yes",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582594805130,
+      "content": "Was the docs created",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "yes",
+      "timestamp_ms": 1582516841866,
+      "content": "No idea",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582514115039,
+      "content": "Do you guys think the test is tmr or not",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "yes",
+      "timestamp_ms": 1582250745511,
+      "content": "yes sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tcdsb.ca"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582250484020,
+      "content": "I\u00e2\u0080\u0099ll make a docs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1582250458915,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/gmail.com"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582249462270,
+      "content": "Lemme know when you guys wanna start working on the questions. We can all just do them in a docs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Nicholas Felleti",
+      "timestamp_ms": 1582249445169,
+      "content": "Nicholas named the group physics.",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "physics",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/physics_ezumpjbesw",
+  "magic_words": [
+    
+  ]
+}

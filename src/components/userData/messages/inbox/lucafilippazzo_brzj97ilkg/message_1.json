@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Luca Filippazzo"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luca Filippazzo",
+      "timestamp_ms": 1605361986609,
+      "content": "none that i know",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1605361264808,
+      "content": "do you know anyone else with 2nd quad AP english for  wednesday in-class?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1605361234769,
+      "content": "alright np thanks luca",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Luca Filippazzo",
+      "timestamp_ms": 1605323090778,
+      "content": "na sorry i can\u00e2\u0080\u0099t",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1605316617470,
+      "content": "I can't switch volunteer positions though so I could only switch cohorts if I want to continue volunteering.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1605316615116,
+      "content": "are you able to switch with me? I have thursday in-class but its interfering with my volunteer schedule",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Luca Filippazzo",
+      "timestamp_ms": 1605310833848,
+      "content": "i\u00e2\u0080\u0099m in Freitas\u00e2\u0080\u0099s class",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Luca Filippazzo",
+      "timestamp_ms": 1605310571535,
+      "content": "ya i have wed in class i think",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1605309786922,
+      "content": "do you have or know anyone who has 2nd quad AP english with Wednesday in-class?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1605309764917,
+      "content": "hey Luca, this is Irwin",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Luca Filippazzo",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/lucafilippazzo_brzj97ilkg",
+  "magic_words": [
+    
+  ]
+}

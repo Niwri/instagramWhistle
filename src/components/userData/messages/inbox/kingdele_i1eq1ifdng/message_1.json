@@ -1,0 +1,940 @@
+{
+  "participants": [
+    {
+      "name": "King Dele"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1580697377717,
+      "content": "Yo start workin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578944312409,
+      "content": "Remember",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578939626440,
+      "content": "Rememberrrrrrrrrr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578541828379,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578541818216,
+      "content": "Post it on discord",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578541805973,
+      "content": "Im in bed",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578541804273,
+      "content": "Can i just send them to you",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578541798531,
+      "content": "Fuck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578541795574,
+      "content": "Oh yeah",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578541776985,
+      "content": "Yo Marcos we still need the pictures",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578373344121,
+      "content": "Try to send it to me asap",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578372829626,
+      "content": "U sleep?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578372747582,
+      "content": "What're the fracs",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578371632164,
+      "content": "Nvm i found it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578371608923,
+      "content": "What is the name of the doc",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578371539893,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578371446096,
+      "content": "I'ma do d u guys can do b and c",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578371268081,
+      "content": "Kk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578371264786,
+      "photos": [
+        {
+          "uri": "messages/inbox/kingdele_i1eq1ifdng/photos/80425670_166861164563160_2631352938897921808_n_389095902245774.jpg",
+          "creation_timestamp": 1603147860
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578371165880,
+      "content": "Ok then send me the pic of the questions",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578371147129,
+      "content": "We needa print it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578371085768,
+      "content": "Is it ok if i do the questions tmr during 1st or 2nd?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578371023987,
+      "content": "Can you send me the picture of the questions from the text book",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578370981860,
+      "content": "^",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578268889217,
+      "content": "Do questions c and d on p514 I think",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578268820229,
+      "content": "Exercise ting",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578266116949,
+      "content": "What did we do",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578266114172,
+      "content": "Which one is that",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578265958685,
+      "content": "The blood pressure lab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578263723724,
+      "content": "Isnt that what we did in class and handed in in class?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1578263713275,
+      "content": "Wdym do the blood lab",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1578083280545,
+      "content": "Remember to do the blood lab n remind Patrick too",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1577125550222,
+      "content": "Ai",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1577121901975,
+      "content": "I'ma share our plants observation in docs with u n patrick",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1576465750273,
+      "content": "Which pictures do you want i literally have 14 pics of the heart",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1576457564587,
+      "content": "How am i supposed to label them cant even see anything on it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1576457132001,
+      "content": "Ye",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1576455917296,
+      "content": "Wait the pics of the heart that are on my phone right",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1576455905583,
+      "content": "Holy fuck",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1576455821310,
+      "content": "Yo Marcos remember to print out the pics n label em",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1576210317928,
+      "content": "Finished my part Xiao di",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1576192720724,
+      "content": "Ok brother Irwin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1576190275423,
+      "content": "I'll do two slides and u n Patrick can do the other 4",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1576189669011,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1576189432831,
+      "content": "I'll inv u n Patrick to slides",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1576189422873,
+      "content": "Kk we gotta do the circulatory presentation",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1576187691682,
+      "content": "We didnt really do anything just a work period",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1576187534183,
+      "content": "Remember to bring exercise clothes for tomorrow btw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1576187493699,
+      "content": "What u guys do 4 bio",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575519983714,
+      "content": "Irwin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1575516056137,
+      "content": "Remember I'ma need help fam",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575503363301,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575503362367,
+      "content": "Wtf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1575503352826,
+      "content": "We got a take-home assignment that's part of the quiz so I'll help out later",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575503288732,
+      "content": "Oo that thing kk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1575503265907,
+      "content": "I'll inv you to the lab docs. TB p513-514 bout exercise",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1575063416576,
+      "content": "Aight",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575063406194,
+      "content": "Tuesday",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1575063400508,
+      "content": "Shiet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575063400226,
+      "content": "Like the notes on the respiratory system",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1575063394679,
+      "content": "When's the test n any hw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575063391588,
+      "content": "And we got a package thats hw for Monday",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575063379120,
+      "content": "On the organs of the respiratory system",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1575063360127,
+      "content": "We did a little pop quiz",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1575063342438,
+      "content": "Anything new for bio",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574995073153,
+      "content": "Have a good nights rest Brother Irwin \u00f0\u009f\u0099\u008f",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574994999094,
+      "content": "Lmao",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574994990555,
+      "content": "Ok Brother Irwin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574994973163,
+      "content": "Ima inv you to the docs for the observation table. Print one out for tomorrow if u can.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574804186938,
+      "content": "Kk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574804162266,
+      "content": "And yeah im going to football",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574804157098,
+      "content": "King sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/outlook.com"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574803705016,
+      "content": "N are u goin to the football tomorrow",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574803695043,
+      "content": "And tell me your email too",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574803682815,
+      "content": "I'll do description for the COPD. Patrick will do the signs/symptoms and the risk factors. You'll do the prevalence n treatment. That good?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574571394475,
+      "content": "No one in my family drinks pop",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574571386977,
+      "content": "No i dont have a 2L pop bottle lol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574557328898,
+      "content": "Got the caffeine tablets btw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574557319344,
+      "content": "Do u have a 2L pop bottle u can bring on Monday",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574293536842,
+      "content": "havent gone home yet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574293529207,
+      "content": "Home",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574293526423,
+      "content": "Im not",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574293490932,
+      "content": "I'm stuck on my math work n it might be for a while so u should start first",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574291770814,
+      "content": "Starting it at 8 I mean",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574291761265,
+      "content": "At 8",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574291753704,
+      "content": "Gonna start the purpose and all that crap. Tell Patrick bout it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574026810121,
+      "content": "@zachhowell_",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574026767408,
+      "content": "What's his ig",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574008419966,
+      "content": "*over",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574008417314,
+      "content": "He asked if you want him to look it iver",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574008355312,
+      "content": "Np",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574008349006,
+      "content": "Ty",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574008343464,
+      "content": "I sent it to him",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1574008296430,
+      "content": "Nope",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574008295862,
+      "content": "I can send him it rn if you still need",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1574008289053,
+      "content": "Did you get it to him yet",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1573957066825,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://docs.google.com/document/d/1sjTVPExBbcY-jKnPOrX43HEDmFy18el7QnUVz1hCAs4/edit?usp=sharing"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1573619457469,
+      "content": "If not i dont think its a big deal this aint for marks",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1573619441611,
+      "content": "Fuckk ill check the library hopefully its open",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1573619400971,
+      "content": "Wait nvm try. My printer outta ink",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1573619172794,
+      "content": "Ok so i dont try and print it tmr?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1573619154402,
+      "content": "It won't be open most likely so I'll print it then dw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1573617527228,
+      "content": "If its open",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1573617522315,
+      "content": "I can try tmr in the library",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1573617512074,
+      "content": "Irwin i couldnt print it",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1573582262600,
+      "content": "Vibrio cholerae",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572988938427,
+      "content": "Ye",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1572988921577,
+      "content": "Ok thats good atleast its not 10% off",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572988911013,
+      "content": "A lotta people handed it in today too",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572988885932,
+      "content": "Had to book it to the computer room n luckily mer Ricci was there",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572988862332,
+      "content": "Ikr",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1572988838715,
+      "content": "Alright sucks the library was closed there was nothing we could do",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572988824747,
+      "content": "Pretty dumb",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572988815374,
+      "content": "But we got 5% off I think",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572988795429,
+      "content": "Handed in STSE today for all three of us",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1572808484124,
+      "content": "Do you know what website she told us to use in class the one we went on the laptops",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1572808453926,
+      "content": "Irwin",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1572642607419,
+      "content": "Yea if the library isnt closed",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572642078553,
+      "content": "I ain't gonna be at school on Monday so I trust you in handing in the STSE project \u00f0\u009f\u0098\u0081",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1572558101019,
+      "content": "Ok",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1572554805344,
+      "content": "Added you to a Google slide for STSE",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1571696601057,
+      "content": "Welp",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1571696233481,
+      "content": "Time to bring red bull to class ig.",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1571696200823,
+      "content": "sHiT",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1571696180776,
+      "content": "Nope you have to cut shit out and glue to a paper",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1571696146627,
+      "content": "Dang. Anything I could do without it?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1571695200008,
+      "content": "But u didnt put ur hand up",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1571695192828,
+      "content": "I think thats she was tryna give you when she asked who was away on fri",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "King Dele",
+      "timestamp_ms": 1571695144580,
+      "content": "Do u even have the package",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1571695007488,
+      "content": "What do we do for the karyotype assignment",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "King Dele",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/kingdele_i1eq1ifdng",
+  "magic_words": [
+    
+  ]
+}

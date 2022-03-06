@@ -1,0 +1,37 @@
+{
+  "profile_linked_meta_accounts": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Account Type": {
+          "href": "",
+          "value": "Facebook",
+          "timestamp": 0
+        },
+        "User Name": {
+          "href": "",
+          "value": "Irwin Ngo",
+          "timestamp": 0
+        },
+        "Identifier": {
+          "href": "",
+          "value": "100003161984020",
+          "timestamp": 0
+        },
+        "Email": {
+          "href": "",
+          "value": "irwinngo@gmail.com",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "+16475807958",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

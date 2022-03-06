@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Dzuy Nguyen"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dzuy Nguyen",
+      "timestamp_ms": 1639418381993,
+      "content": "Ik u like that",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1639417014989,
+      "content": "wodefriq",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dzuy Nguyen",
+      "timestamp_ms": 1639374940276,
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Dzuy Nguyen",
+      "timestamp_ms": 1629137033319,
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Dzuy Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/dzuynguyen_i1moxf0ctw",
+  "magic_words": [
+    
+  ]
+}

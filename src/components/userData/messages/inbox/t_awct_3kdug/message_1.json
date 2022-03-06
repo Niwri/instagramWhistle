@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0085\u0083\u00f0\u009f\u0085\u00ba"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0085\u0083\u00f0\u009f\u0085\u00ba",
+      "timestamp_ms": 1635769564212,
+      "content": "LMAOOOOOOOO",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0085\u0083\u00f0\u009f\u0085\u00ba",
+      "timestamp_ms": 1635769563949,
+      "share": {
+        "original_content_owner": "liam_coolkid03"
+      },
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0085\u0083\u00f0\u009f\u0085\u00ba",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/t_awct_3kdug",
+  "magic_words": [
+    
+  ]
+}

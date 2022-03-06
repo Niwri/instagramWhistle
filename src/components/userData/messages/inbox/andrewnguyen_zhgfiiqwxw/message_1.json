@@ -1,0 +1,111 @@
+{
+  "participants": [
+    {
+      "name": "Andrew Nguyen"
+    },
+    {
+      "name": "Irwin Ngo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrew Nguyen",
+      "timestamp_ms": 1639153653305,
+      "share": {
+        "link": "https://www.instagram.com/p/CXTsCTGrENO/?feed_type=reshare_chaining",
+        "share_text": "The Chaminitis Virus has been released by the Grade 11 STEAM Math class as a result of a calculation error.  Symptoms include: \n- Tummy Ache\n- Lack of preparation for tests\n- Sprained pinky finger\n- Realization that tomorrow is Friday\n\nVote for your FAVOURITE Chaminade Christmas Ornament. \n\n#decorationchallenge #gryphons #green&gold #STEAM #brotherhood  @chaminadeccs",
+        "original_content_owner": "mr_cioffi"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598745601521,
+      "content": "Irwin says fuck you",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598745597063,
+      "content": "Heres more",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598745595240,
+      "photos": [
+        {
+          "uri": "messages/inbox/andrewnguyen_zhgfiiqwxw/photos/118401233_256377558746363_1532936884669044727_n_668502754046998.jpg",
+          "creation_timestamp": 1598745596
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598745593676,
+      "photos": [
+        {
+          "uri": "messages/inbox/andrewnguyen_zhgfiiqwxw/photos/118452010_891851171224915_8928554768201967710_n_312450233409108.jpg",
+          "creation_timestamp": 1598745595
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598745592317,
+      "photos": [
+        {
+          "uri": "messages/inbox/andrewnguyen_zhgfiiqwxw/photos/118503226_368217190842207_8037974425371402998_n_1367297203468429.jpg",
+          "creation_timestamp": 1598745593
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598745589016,
+      "photos": [
+        {
+          "uri": "messages/inbox/andrewnguyen_zhgfiiqwxw/photos/118404367_356033612091251_7573661976421227924_n_2668013386861931.jpg",
+          "creation_timestamp": 1598745590
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Irwin Ngo",
+      "timestamp_ms": 1598745587406,
+      "photos": [
+        {
+          "uri": "messages/inbox/andrewnguyen_zhgfiiqwxw/photos/118516761_736400056935505_3026962513018310823_n_773123253524040.jpg",
+          "creation_timestamp": 1598745588
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Andrew Nguyen",
+      "timestamp_ms": 1598742249613,
+      "content": "sending that to jester",
+      "type": "Share",
+      "is_unsent": false
+    }
+  ],
+  "title": "Andrew Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/andrewnguyen_zhgfiiqwxw",
+  "magic_words": [
+    
+  ]
+}
